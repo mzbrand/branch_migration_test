@@ -4,4 +4,6 @@ CEA_1.0
 
 CEA Change
 
-Another change
+Another changeCEA Change
+
+A master branch change
